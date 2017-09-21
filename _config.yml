@@ -4,7 +4,7 @@ SEOTitle: Xinyu Shao's Blog
 header-img: img/home-bg.jpg
 description: "独立游戏制作|游戏策划|码农 | Game Designer| Indie Gamer"
 keyword: "邵新宇,Xinyu, Shao, Xinyu SHao,博客, 个人网站, 游戏策划, 独立游戏, Indie, Game, Game Design"
-url: "https://iiidiot.com"              # your host, for absolute URL
+url: "https://xinyushao.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -59,7 +59,7 @@ netease_comment: true
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: iiidiot.com
+ga_domain: xinyushao.com
 
 
 
